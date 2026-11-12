@@ -1,4 +1,4 @@
-PrinterGuard 1.0
+*PrinterGuard 1.0*
 Description
 
 PrinterGuard catches players who use a printer (automatic block placement from a schematic, as in Litematica and similar mods) and leaves EasyPlace users alone.
